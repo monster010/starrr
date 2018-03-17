@@ -14,3 +14,25 @@
 	cursor: default !important;
 	color: #ffe373 !important;
 }
+
+.starrr-lg a {
+	font-size: 1.33333333em;
+	line-height: 0.75em;
+	vertical-align: -15%;
+}
+
+.starrr-2x a {
+	font-size: 2em;
+}
+
+.starrr-3x a {
+	font-size: 3em;
+}
+
+.starrr-4x a {
+	font-size: 4em;
+}
+
+.starrr-5x a {
+	font-size: 5em;
+}
